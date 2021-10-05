@@ -1,3 +1,8 @@
+'''
+Rock Paper Scissors Game
+By Abhishek Pagare
+'''
+
 import numpy as np
 import random
 
